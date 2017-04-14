@@ -4,5 +4,3 @@ items:
     path: '/blog'
   - text: 'Archive'
     path: '/archive'
-  - text: 'About'
-    path: '/about'
