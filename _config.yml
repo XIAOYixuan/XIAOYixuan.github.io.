@@ -4,6 +4,7 @@ url: "username.github.io" # the base hostname & protocol for your site.
 paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
+markdown: kramdown
 # header text
 title: IEANBYTN
 header: Yearly Writing :)
@@ -15,8 +16,9 @@ email:
   text: "xiaoyx.bit (at) gmail.com"
 
 # disqus comment
+comments: false 
 disqus:
-    shortname: "iay" #your disqus comment short name
+    shortname: "xyx.bit.xxx" #your disqus comment short name
 
 # google analytics
 google:
